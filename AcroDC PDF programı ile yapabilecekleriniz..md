@@ -1,4 +1,4 @@
-PDF Evrak görüntüleme
+** PDF Evrak görüntüleme
 ** Düzenleme
 ** Filigran kaldırma
 ** PDF dosyasını farklı kaydet e tıklayarak word formatında veya png, jpg formatında resim olarak kaydetme
